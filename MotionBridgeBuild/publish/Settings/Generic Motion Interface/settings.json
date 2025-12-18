@@ -1,0 +1,11 @@
+{
+  "ipAddress": "192.168.4.1",
+  "port": 5931,
+  "heavePos": 2,
+  "surgePos": 1,
+  "swayPos": 0,
+  "rollPos": 4,
+  "pitchPos": 3,
+  "yawPos": 5,
+  "accelerationPos": 6
+}
